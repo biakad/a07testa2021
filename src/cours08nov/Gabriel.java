@@ -11,6 +11,6 @@ package cours08nov;
  */
 public class Gabriel {
     //Variables
-    private String prénom;
+    private String prenom;
     private String nom;
 }
